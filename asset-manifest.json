@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Ipod_reactJs/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/Ipod_reactJs/static/js/main.29ac3155.chunk.js",
+    "main.js.map": "/Ipod_reactJs/static/js/main.29ac3155.chunk.js.map",
+    "runtime-main.js": "/Ipod_reactJs/static/js/runtime-main.237cdaff.js",
+    "runtime-main.js.map": "/Ipod_reactJs/static/js/runtime-main.237cdaff.js.map",
+    "static/css/2.b6bbff18.chunk.css": "/Ipod_reactJs/static/css/2.b6bbff18.chunk.css",
+    "static/js/2.4e591752.chunk.js": "/Ipod_reactJs/static/js/2.4e591752.chunk.js",
+    "static/js/2.4e591752.chunk.js.map": "/Ipod_reactJs/static/js/2.4e591752.chunk.js.map",
+    "index.html": "/Ipod_reactJs/index.html",
+    "static/css/2.b6bbff18.chunk.css.map": "/Ipod_reactJs/static/css/2.b6bbff18.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/Ipod_reactJs/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.4e591752.chunk.js.LICENSE.txt": "/Ipod_reactJs/static/js/2.4e591752.chunk.js.LICENSE.txt",
+    "static/media/Senorita.4765c0c8.mp3": "/Ipod_reactJs/static/media/Senorita.4765c0c8.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.237cdaff.js",
+    "static/css/2.b6bbff18.chunk.css",
+    "static/js/2.4e591752.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.29ac3155.chunk.js"
+  ]
+}
